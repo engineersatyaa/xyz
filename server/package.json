@@ -1,0 +1,22 @@
+{
+  "name": "backend_practice",
+  "version": "1.0.0",
+  "description": "I am working on my skills.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "mongoDB"
+  ],
+  "author": "Satya Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
